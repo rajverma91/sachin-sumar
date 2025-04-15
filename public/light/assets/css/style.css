@@ -7555,8 +7555,8 @@ header.full-height {
 }
 
 header .full-height {
-  min-height: 100vh;
-  padding: 100px 0 80px;
+  min-height: 80vh;
+  padding: 0px 0 0px;
 }
 
 header.in-box {

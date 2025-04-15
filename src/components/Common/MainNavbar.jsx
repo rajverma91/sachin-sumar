@@ -54,13 +54,13 @@ function MainNavbar({ lightMode, mainBg, subBg, noStatic, curve }) {
               :
               <img src="/dark/assets/imgs/logo-light.png" alt="logo" />
           }
-        </a>
+        </a> 
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" onClick={toggleNavbar}>
           <span className="icon-bar"><i className="fas fa-bars"></i></span>
         </button>
-<h2>Aksh Digital Solutions</h2>
+<h2 className='Countdown CountdownFont'>Aksh Digital Solutions</h2>
         <div className="search-form">
-          <h5>+44 7423024323</h5>
+          <h5><a href='tel:+447423024323'>+447423024323</a></h5>
         </div>
       </div>
     </nav>

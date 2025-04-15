@@ -7496,7 +7496,17 @@ header.full-height {
   min-height: 100vh;
   padding: 100px 0 80px;
 }
+.CountdownFont {
+  font-family: "Rubik Mono One", monospace;
+  font-size: 55px;
+}
 
+.Countdown {
+  background: linear-gradient(#0c5adb, #fe7c60);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
 header .full-height {
   min-height: 100vh;
   padding: 100px 0 80px;

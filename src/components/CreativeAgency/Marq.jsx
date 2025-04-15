@@ -10,47 +10,36 @@ function Marq() {
               <div className="slide-har st1">
                 <div className="box non-strok">
                   <div className="item">
-                    <h4 className="d-flex align-items-center"><span>Parvi Boutique</span> <span
+                    <h4 className="d-flex align-items-center"><span>Search Engine Optimization (SEO)</span> <span
                       className="fz-50 ml-50 stroke icon">*</span></h4>
                   </div>
                   <div className="item">
-                    <h4 className="d-flex align-items-center"><span>Orbit estate</span> <span
+                    <h4 className="d-flex align-items-center"><span>Website Design & Development</span> <span
                       className="fz-50 ml-50 stroke icon">*</span></h4>
                   </div>
                   <div className="item">
-                    <h4 className="d-flex align-items-center"><span>Asian Handicrafts</span> <span
+                    <h4 className="d-flex align-items-center"><span>Social Media Marketing (SMM)</span> <span
                       className="fz-50 ml-50 stroke icon">*</span></h4>
                   </div>
                   <div className="item">
-                    <h4 className="d-flex align-items-center"><span> Excellence Academy</span> <span
+                    <h4 className="d-flex align-items-center"><span>Paid Advertising (PPC & Social Ads)</span> <span
                       className="fz-50 ml-50 stroke icon">*</span></h4>
                   </div>
                   <div className="item">
-                    <h4 className="d-flex align-items-center"><span>Excellence Technology</span> <span
+                    <h4 className="d-flex align-items-center"><span>Content Marketing</span> <span
                       className="fz-50 ml-50 stroke icon">*</span></h4>
                   </div>
                 </div>
                 <div className="box non-strok">
                   <div className="item">
-                    <h4 className="d-flex align-items-center"><span>H&S Immigration</span> <span
+                    <h4 className="d-flex align-items-center"><span>Video Marketing</span> <span
                       className="fz-50 ml-50 stroke icon">*</span></h4>
                   </div>
                   <div className="item">
-                    <h4 className="d-flex align-items-center"><span> Supreet image consultant</span> <span
+                    <h4 className="d-flex align-items-center"><span> Google My Business Optimization(Local Business Profile)</span> <span
                       className="fz-50 ml-50 stroke icon">*</span></h4>
                   </div>
-                  <div className="item">
-                    <h4 className="d-flex align-items-center"><span>SEO</span> <span
-                      className="fz-50 ml-50 stroke icon">*</span></h4>
-                  </div>
-                  <div className="item">
-                    <h4 className="d-flex align-items-center"><span>Social Media Marketing</span> <span
-                      className="fz-50 ml-50 stroke icon">*</span></h4>
-                  </div>
-                  <div className="item">
-                    <h4 className="d-flex align-items-center"><span>Google ads</span> <span
-                      className="fz-50 ml-50 stroke icon">*</span></h4>
-                  </div>
+
                 </div>
               </div>
             </div>

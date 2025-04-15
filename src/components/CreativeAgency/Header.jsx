@@ -12,15 +12,38 @@ function Header({ lightMode }) {
       <div className="container ontop">
         <div className="row justify-content-center full-height">
           <div className="col-lg-3 d-flex align-items-end">
-            <div className="img md-hide">
-              <div className="img-assets1 parallax" data-speed="-0.01">
+          <div className="mt-30 md-hide">
+          <div className="img-assets1 parallax" data-speed="-0.01">
                 <img src="/dark/assets/imgs/svg-assets/claw.svg" alt="" />
               </div>
-              <img src="/dark/assets/imgs/header/c1.png" alt="" data-speed="0.01" className="parallax" />
+              <div className="text-center hover-this">
+                <div className="circle-button hover-anim">
+                  <div className="rotate-circle fz-30 text-u">
+                    <svg className="textcircle" viewBox="0 0 500 500">
+                      <defs>
+                        <path id="textcircle1"
+                          d="M250,400 a150,150 0 0,1 0,-300a150,150 0 0,1 0,300Z">
+                        </path>
+                      </defs>
+                      <text>
+                        <textPath xlinkHref="#textcircle1" textLength="900">Digital Marketing Agency</textPath>
+                      </text>
+                    </svg>
+                  </div>
+                  <div className="in-circle text-center">
+                    <h3>A <span className="fw-300 fz-30">+</span></h3>
+                  </div>
+                </div>
+              </div>
+              <div className="text-center" style={{ paddingBottom: '20px' }}>
+                <h6>100k <span className="fz-14">Customers</span></h6>
+                <p className="fz-13">Where Strategy Meets Success</p>
+              </div>
             </div>
+          
           </div>
           <div className="col-lg-6 valign">
-            <div className="caption text-center full-width md-mb50">
+            <div className="caption text-center full-width ">
               <div className="mb-30">
                 <svg className="svg-animation star" width="100" height="100" viewBox="0 0 100 100"
                   fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
@@ -45,35 +68,11 @@ function Header({ lightMode }) {
               </h3>
             </div>
           </div>
-          <div className="col-lg-3">
-            <div className="img parallax" data-speed="0.01">
-              <img src="/dark/assets/imgs/header/c2.jpg" alt="" />
+          <div className="col-lg-3 d-flex align-items-end">
+          <div className="img md-hide">
+              <img src="/dark/assets/imgs/header/c1.png" alt="" data-speed="0.01" className="parallax"   style={{ width: '133%' }} />
             </div>
-            <div className="mt-30 md-hide">
-              <div className="text-center hover-this">
-                <div className="circle-button hover-anim">
-                  <div className="rotate-circle fz-30 text-u">
-                    <svg className="textcircle" viewBox="0 0 500 500">
-                      <defs>
-                        <path id="textcircle1"
-                          d="M250,400 a150,150 0 0,1 0,-300a150,150 0 0,1 0,300Z">
-                        </path>
-                      </defs>
-                      <text>
-                        <textPath xlinkHref="#textcircle1" textLength="900">Creative - Agency - Winner -</textPath>
-                      </text>
-                    </svg>
-                  </div>
-                  <div className="in-circle text-center">
-                    <h3>A <span className="fw-300 fz-30">+</span></h3>
-                  </div>
-                </div>
-              </div>
-              <div className="text-center">
-                <h6>100k <span className="fz-14">Customers</span></h6>
-                <p className="fz-13">Avg rating 4.8 makes us world best.</p>
-              </div>
-            </div>
+           
           </div>
         </div>
       </div>

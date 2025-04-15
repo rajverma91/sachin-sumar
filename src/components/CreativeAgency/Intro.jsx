@@ -19,7 +19,7 @@ function Intro({ lightMode }) {
                 </div>
               </div>
               <div className="half-circle-img">
-                <img src={`/${lightMode ? 'light' : 'dark'}/assets/imgs/about/1.jpg`} alt="" />
+                <img src={`/${lightMode ? 'light' : 'dark'}/assets/imgs/about/imagef.png`} alt="" />
               </div>
             </div>
           </div>
