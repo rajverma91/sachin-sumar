@@ -26,11 +26,9 @@ function Footer({ lightMode }) {
             <div className="col-lg-3">
               <div className="colum md-mb50">
                 <div className="tit mb-20">
-                  <h6>Address</h6>
+                  <p>Excellence decisively nay man per impression maximum contrasted remarkably is perfect point. uncommonly solicitude inhabiting projection.</p>
                 </div>
-                <div className="text">
-                  <p>Germany — 785 15h Street, Office 478 Berlin, De 81566</p>
-                </div>
+             
               </div>
             </div>
             <div className="col-lg-3 offset-lg-1">
@@ -39,11 +37,13 @@ function Footer({ lightMode }) {
                   <h6>Say Hello</h6>
                 </div>
                 <div className="text">
+                <p className="mb-10">Plot No. 823, Sector 79, S.A.S. Nagar (Mohali)</p>
                   <p className="mb-10">
-                    <a href="#0">hello@design.com</a>
+                    <a href="#0">akshdigitalsolutions@gmail.com</a>
                   </p>
                   <h5>
-                    <a href="#">+1 840 841 25 69</a>
+                    <a href="#">+44 7423024323</a><br/>
+                    <a href="#">+91 9779 281128</a>
                   </h5>
                 </div>
               </div>
@@ -72,6 +72,7 @@ function Footer({ lightMode }) {
                 <h6>Newsletter</h6>
               </div>
               <div className="subscribe">
+                <p>Join our subscribers list to get the latest news and special offers.</p>
                 <form action="contact.php">
                   <div className="form-group rest">
                     <input type="email" placeholder="Type Your Email" />
@@ -97,9 +98,9 @@ function Footer({ lightMode }) {
               <div className="col-lg-8">
                 <div className="copyright d-flex">
                   <div className="ml-auto">
-                    <p className="fz-13">© 2023 Geekfolio is Proudly Powered by <span className="underline"><a
-                      href={data.author_link}
-                      target="_blank">{data.author}</a></span></p>
+                    <p className="fz-13">© 2023 Aksh Digital Solutions  <span className="underline"><a
+                      href="https://akshdigitalsolutions.com/"
+                      target="_blank">AKS</a></span></p>
                   </div>
                 </div>
               </div>

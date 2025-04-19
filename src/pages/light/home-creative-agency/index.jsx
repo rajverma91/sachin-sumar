@@ -17,6 +17,7 @@ import Team from '@/components/CreativeAgency/Team';
 import HzScroll from '@/components/CreativeAgency/HorizontalScroll';
 import Blog from '@/components/CreativeAgency/Blog';
 import Footer from '@/components/CreativeAgency/Footer';
+import Works from '@/components/CreativeAgency/HorizontalScroll/Worksm';
 
 function HomeCreativeAgencyLight() {
   useEffect(() => {
@@ -36,6 +37,7 @@ function HomeCreativeAgencyLight() {
         <Header lightMode />
         <Marq />
         <Intro />
+        <Works />
         <SectionImage />
         <Services lightMode />
         <Portfolio />
