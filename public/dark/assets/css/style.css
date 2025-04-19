@@ -34,7 +34,17 @@ body {
 body.noise-img {
   position: relative;
 }
-
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+  max-width: 1600px !important;
+}
+nav.navbar.navbar-expand-lg.static.main-bg {
+  padding: 17px 0;
+}
+.navbar .search-form h5 a {
+  background: #0b8ccd;
+  color: #fff;
+  padding: 13px 23px;
+}
 body.noise-img:before {
   content: '';
   background-image: url(../imgs/patterns/noise.png);
@@ -7497,10 +7507,11 @@ header.full-height {
   padding: 100px 0 80px;
 }
 .CountdownFont {
-  font-family: "Rubik Mono One", monospace;
-  font-size: 55px;
+  font-size: 60px;
+  text-transform: uppercase;
+  font-weight: 900;
+  margin: 0;
 }
-
 .Countdown {
   background: linear-gradient(#0c5adb, #fe7c60);
   -webkit-background-clip: text;

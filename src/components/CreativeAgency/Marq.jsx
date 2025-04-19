@@ -14,7 +14,7 @@ function Marq() {
                       className="fz-50 ml-50 stroke icon">*</span></h4>
                   </div>
                   <div className="item">
-                    <h4 className="d-flex align-items-center"><span>Website Design</span> <span
+                    <h4 className="d-flex align-items-center"><span>Website Designing</span> <span
                       className="fz-50 ml-50 stroke icon">*</span></h4>
                   </div>
                   <div className="item">

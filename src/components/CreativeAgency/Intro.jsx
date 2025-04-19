@@ -62,8 +62,7 @@ function Intro({ lightMode }) {
                   <h6>Digital Product Design</h6>
                 </div>
               </div>
-              <p className="fz-14">new ways to showcase user content on digital support and envisioning the
-                future arts.</p>
+              <p className="fz-14">We specialize in Digital Product Design that blends creativity, usability, and technology. From concept to launch, we craft intuitive and user-centric designs for websites, mobile apps, and digital platforms that not only look stunning but also deliver seamless user experiences.</p>
             </div>
           </div>
           <div className="col-lg-4 col-md-6">
@@ -75,11 +74,10 @@ function Intro({ lightMode }) {
                   </div>
                 </div>
                 <div>
-                  <h6>Branding & Design</h6>
+                  <h6>Brandingn</h6>
                 </div>
               </div>
-              <p className="fz-14">new ways to showcase user content on digital support and envisioning the
-                future arts.</p>
+              <p className="fz-14">At Aksh Digital Solutions, we believe that branding is more than just a logo – it's the heart of your business identity. We craft compelling brand stories, design memorable visuals, and build consistent messaging that connects with your audience.</p>
             </div>
           </div>
           <div className="col-lg-4 col-md-6">
@@ -94,8 +92,7 @@ function Intro({ lightMode }) {
                   <h6>Web Development</h6>
                 </div>
               </div>
-              <p className="fz-14">new ways to showcase user content on digital support and envisioning the
-                future arts.</p>
+              <p className="fz-14">We specialize in creating stunning, responsive, and user-friendly websites that not only look great but also drive results. Whether you're a startup or an established business, our team designs custom websites that reflect your brand and convert visitors into customers.</p>
             </div>
           </div>
         </div>
