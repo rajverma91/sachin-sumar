@@ -37,7 +37,7 @@ function HomeCreativeAgencyLight() {
         <Header lightMode />
         <Marq />
         <Intro />
-        <Works />
+    
         <SectionImage />
         <Services lightMode />
    
