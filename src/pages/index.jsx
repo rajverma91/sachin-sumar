@@ -28,7 +28,7 @@ function LandingPreview() {
   return (
     <>
     <Head>
-      <title>sxsdx</title>
+      <title>Aksh Digital Solutions : Achieve Greatness Online</title>
     </Head>
 
     <Loader />
